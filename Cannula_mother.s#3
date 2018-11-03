@@ -8520,8 +8520,12 @@ if pin 33 tied low on startup.
 Also ensures ENABLE_GLOBAL
 is HIGH whenever floating.</text>
 <text x="-93.472" y="222.758" size="1.524" layer="97" font="vector" ratio="16">Input Voltage Monitor:</text>
-<text x="-93.472" y="218.44" size="1.27" layer="97" ratio="12">Vin = Vout * (10K + 2K7)/2K7 + 10V
-    = Vout * 4.704 + 10</text>
+<text x="-93.726" y="210.312" size="1.27" layer="97" ratio="12">For 24V max -&gt; use 2K7 resistor
+Vin = Vout * (10K + 2K7)/2K7 + 10V
+    = Vout * 4.704 + 10
+
+For 36V max -&gt; use 1K resistor
+Vin = Vout * 11.0 + 10</text>
 </plain>
 <instances>
 <instance part="TEENSY3.2" gate="G$1" x="-93.98" y="78.74" smashed="yes">
@@ -10787,7 +10791,7 @@ is HIGH whenever floating.</text>
 <wire x1="215.9" y1="63.5" x2="213.36" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$17" class="0">
+<net name="T_VIN" class="0">
 <segment>
 <pinref part="TEENSY3.2" gate="G$1" pin="VIN"/>
 <wire x1="-78.74" y1="106.68" x2="-68.58" y2="106.68" width="0.1524" layer="91"/>
@@ -10800,7 +10804,7 @@ is HIGH whenever floating.</text>
 <pinref part="D3" gate="G$1" pin="C"/>
 </segment>
 </net>
-<net name="N$25" class="0">
+<net name="VUSB" class="0">
 <segment>
 <pinref part="TEENSY3.2" gate="G$1" pin="VUSB"/>
 <wire x1="-78.74" y1="109.22" x2="-76.2" y2="109.22" width="0.1524" layer="91"/>

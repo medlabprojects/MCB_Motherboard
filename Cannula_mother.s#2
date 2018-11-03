@@ -8381,20 +8381,20 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="SUPPLY13" library="Cannula_1_0" deviceset="3.3V" device=""/>
 <part name="SUPPLY14" library="Cannula_1_0" deviceset="3.3V" device=""/>
 <part name="F1" library="Cannula_1_0" deviceset="FUSE" device="-1206" value="12A"/>
-<part name="STATUS_M5" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="STATUS_M5" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_B"/>
 <part name="R2" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
-<part name="STATUS_M1" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="STATUS_M1" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_B"/>
 <part name="R3" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
-<part name="STATUS_M2" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="STATUS_M2" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_B"/>
 <part name="R4" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
-<part name="STATUS_M3" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="STATUS_M3" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_B"/>
 <part name="R5" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
-<part name="STATUS_M4" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="STATUS_M4" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_B"/>
 <part name="R6" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
 <part name="UP" library="Cannula_1_0" deviceset="BUTTON_PASSIVE" device="-8MM-ARROW"/>
 <part name="DOWN" library="Cannula_1_0" deviceset="BUTTON_PASSIVE" device="-8MM-ARROW"/>
 <part name="MENU" library="Cannula_1_0" deviceset="BUTTON_PASSIVE" device="-8MM-MENU"/>
-<part name="STATUS_M6" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="STATUS_M6" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_B"/>
 <part name="R7" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
 <part name="R8" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="2K7"/>
 <part name="R9" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="2K7"/>
@@ -8402,18 +8402,18 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="LED_DRIVER1" library="Cannula_1_0" deviceset="ULN2003A" device="D"/>
 <part name="GND37" library="Cannula_1_0" deviceset="GND2" device=""/>
 <part name="SUPPLY18" library="Cannula_1_0" deviceset="5V" device=""/>
-<part name="M5" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_R"/>
-<part name="R10" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="150"/>
-<part name="M1" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_R"/>
-<part name="R11" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="150"/>
-<part name="M2" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_R"/>
-<part name="R12" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="150"/>
-<part name="M3" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_R"/>
-<part name="R13" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="150"/>
-<part name="M4" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_R"/>
-<part name="R14" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="150"/>
-<part name="M6" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_R"/>
-<part name="R15" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="150"/>
+<part name="M5" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="R10" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
+<part name="M1" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="R11" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
+<part name="M2" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="R12" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
+<part name="M3" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="R13" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
+<part name="M4" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="R14" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
+<part name="M6" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="R15" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
 <part name="LED_DRIVER2" library="Cannula_1_0" deviceset="ULN2003A" device="D"/>
 <part name="GND29" library="Cannula_1_0" deviceset="GND2" device=""/>
 <part name="SUPPLY20" library="Cannula_1_0" deviceset="5V" device=""/>
@@ -8494,7 +8494,6 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="GND11" library="Cannula_1_0" deviceset="GND2" device=""/>
 <part name="C5" library="SparkFun-Passives" deviceset="CAP" device="1210" value="10uF"/>
 <part name="GND12" library="Cannula_1_0" deviceset="GND2" device=""/>
-<part name="TP10" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="PTR1" device="TP20R" package3d_urn="urn:adsk.eagle:package:27973/1"/>
 <part name="TP9" library="Cannula_1_0" deviceset="TEST-POINT" device="_5021"/>
 <part name="TP1" library="Cannula_1_0" deviceset="TEST-POINT" device="_5021"/>
 <part name="U$5" library="Cannula_1_0" deviceset="CONN_RECT_2X3" device="_VERT"/>
@@ -8505,6 +8504,8 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="R23" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="2K7"/>
 <part name="U$7" library="Cannula_1_0" deviceset="SHORT" device=""/>
 <part name="U$9" library="Cannula_1_0" deviceset="SHORT" device=""/>
+<part name="ERROR" library="Cannula_1_0" deviceset="LED" device="-0805" value="LED_G"/>
+<part name="R24" library="Cannula_1_0" deviceset="RESISTOR" device="-0603" value="140"/>
 </parts>
 <sheets>
 <sheet>
@@ -8520,8 +8521,12 @@ if pin 33 tied low on startup.
 Also ensures ENABLE_GLOBAL
 is HIGH whenever floating.</text>
 <text x="-93.472" y="222.758" size="1.524" layer="97" font="vector" ratio="16">Input Voltage Monitor:</text>
-<text x="-93.472" y="218.44" size="1.27" layer="97" ratio="12">Vin = Vout * (10K + 2K7)/2K7 + 10V
-    = Vout * 4.704 + 10</text>
+<text x="-93.726" y="210.312" size="1.27" layer="97" ratio="12">For 24V max -&gt; use 2K7 resistor
+Vin = Vout * (10K + 2K7)/2K7 + 10V
+    = Vout * 4.704 + 10
+
+For 36V max -&gt; use 1K resistor
+Vin = Vout * 11.0 + 10</text>
 </plain>
 <instances>
 <instance part="TEENSY3.2" gate="G$1" x="-93.98" y="78.74" smashed="yes">
@@ -8937,9 +8942,6 @@ is HIGH whenever floating.</text>
 <attribute name="VALUE" x="-83.058" y="170.307" size="1.778" layer="96"/>
 </instance>
 <instance part="GND12" gate="G$1" x="-76.2" y="165.1" smashed="yes"/>
-<instance part="TP10" gate="G$1" x="38.1" y="147.32" smashed="yes" rot="R90">
-<attribute name="TP_SIGNAL_NAME" x="40.64" y="148.59" size="1.778" layer="97" rot="R90"/>
-</instance>
 <instance part="TP9" gate="G$1" x="287.02" y="73.66" smashed="yes" rot="R180">
 <attribute name="NAME" x="282.956" y="74.676" size="1.778" layer="95"/>
 </instance>
@@ -8971,6 +8973,14 @@ is HIGH whenever floating.</text>
 </instance>
 <instance part="U$7" gate="G$1" x="124.46" y="195.58" smashed="yes"/>
 <instance part="U$9" gate="G$1" x="195.58" y="71.12" smashed="yes"/>
+<instance part="ERROR" gate="G$1" x="-15.24" y="-53.34" smashed="yes" rot="R270">
+<attribute name="NAME" x="-18.034" y="-49.53" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-20.32" y="-56.769" size="1.778" layer="96"/>
+</instance>
+<instance part="R24" gate="G$1" x="-5.08" y="-53.34" smashed="yes">
+<attribute name="NAME" x="-7.366" y="-51.5874" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-7.366" y="-56.642" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -9158,6 +9168,10 @@ is HIGH whenever floating.</text>
 <pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="7.62" y1="-12.7" x2="7.62" y2="-10.16" width="0.1524" layer="91"/>
 <junction x="7.62" y="-10.16"/>
+<pinref part="R24" gate="G$1" pin="2"/>
+<wire x1="2.54" y1="-53.34" x2="0" y2="-53.34" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="-40.64" x2="2.54" y2="-53.34" width="0.1524" layer="91"/>
+<junction x="2.54" y="-40.64"/>
 </segment>
 <segment>
 <pinref part="R21" gate="G$1" pin="2"/>
@@ -11043,14 +11057,6 @@ is HIGH whenever floating.</text>
 <wire x1="-60.96" y1="180.34" x2="-60.96" y2="177.8" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="I2C_GP1" class="0">
-<segment>
-<pinref part="I2C_GPIO" gate="G$1" pin="GP1"/>
-<label x="25.4" y="147.828" size="1.778" layer="95"/>
-<wire x1="25.4" y1="147.32" x2="35.56" y2="147.32" width="0.1524" layer="91"/>
-<pinref part="TP10" gate="G$1" pin="TP"/>
-</segment>
-</net>
 <net name="N$12" class="0">
 <segment>
 <pinref part="MODE_SWITCH" gate="G$1" pin="5"/>
@@ -11209,6 +11215,35 @@ is HIGH whenever floating.</text>
 <wire x1="200.66" y1="71.12" x2="203.2" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="203.2" y1="71.12" x2="203.2" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="203.2" y1="73.66" x2="215.9" y2="73.66" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$17" class="0">
+<segment>
+<pinref part="ERROR" gate="G$1" pin="A"/>
+<pinref part="R24" gate="G$1" pin="1"/>
+<wire x1="-12.7" y1="-53.34" x2="-10.16" y2="-53.34" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$25" class="0">
+<segment>
+<pinref part="ERROR" gate="G$1" pin="C"/>
+<wire x1="-20.32" y1="-53.34" x2="-27.94" y2="-53.34" width="0.1524" layer="91"/>
+<pinref part="LED_DRIVER2" gate="A" pin="O7"/>
+<wire x1="-35.56" y1="-20.32" x2="-30.48" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="-30.48" y1="-20.32" x2="-30.48" y2="-53.34" width="0.1524" layer="91"/>
+<wire x1="-30.48" y1="-53.34" x2="-27.94" y2="-53.34" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="I2C_LED" class="0">
+<segment>
+<pinref part="LED_DRIVER2" gate="A" pin="I7"/>
+<wire x1="-60.96" y1="-20.32" x2="-63.5" y2="-20.32" width="0.1524" layer="91"/>
+<label x="-78.74" y="-20.32" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="I2C_GPIO" gate="G$1" pin="GP1"/>
+<label x="25.4" y="147.828" size="1.778" layer="95"/>
+<wire x1="25.4" y1="147.32" x2="35.56" y2="147.32" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
